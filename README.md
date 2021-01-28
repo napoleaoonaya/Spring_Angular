@@ -1,3 +1,5 @@
+#Todos os creditos ao projeto ao senhor Ramesh Fadatare, obrigado.
+
 # AngularFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
